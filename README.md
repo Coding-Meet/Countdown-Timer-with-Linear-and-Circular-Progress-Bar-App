@@ -4,18 +4,18 @@
 
 This tutorial series covers the implementation of a Countdown Timer with both Linear (Horizontal) and Circular Progress Bars in Android Studio using Kotlin. Each video focuses on a specific aspect of creating a custom progress bar and integrating it into a countdown timer application.
 
+# [YouTube Video Link](https://www.youtube.com/playlist?list=PLlSuJy9SfzvEvTgRvUzIsiTNV9gozmja2)
+
 ## Video List
 
-1. [**How to Implement Custom Linear (Horizontal) Progress Bar in Android Studio Kotlin**](https://youtu.be/NXuXbXN1llY?si=7Ie8in5u0i_HVRBJ)
-
+1. **How to Implement Custom Linear (Horizontal) Progress Bar in Android Studio Kotlin**
 ![image](image/img1.jpg)
 
-2. [**How to Implement Custom Circular Progress Bar in Android Studio Kotlin**](https://youtu.be/NXuXbXN1llY?si=7Ie8in5u0i_HVRBJ)
+2. **How to Implement Custom Circular Progress Bar in Android Studio Kotlin**
 
 ![image](image/img2.jpg)
 
-3. [**How to Implement Countdown Timer with Linear & Circular Progress Bar in Android Studio Kotlin**](https://youtu.be/NXuXbXN1llY?si=7Ie8in5u0i_HVRBJ)
-
+3. **How to Implement Countdown Timer with Linear & Circular Progress Bar in Android Studio Kotlin**
 ![image](image/img3.jpg)
 
 
